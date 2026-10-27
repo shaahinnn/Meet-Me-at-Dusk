@@ -11,6 +11,10 @@ A pixel-art 2D platformer set in a lantern-lit medieval town at dusk. Guide your
 
 Open the project folder in Unity Hub using a compatible Unity editor version.
 
+## Gameplay Demo
+
+[▶ Watch or download the Meet Me at Dusk gameplay demo (MP4)](https://github.com/shaahinnn/Meet-Me-at-Dusk/releases/download/demo-v1.0/Meet.me.at.the.dusk.mp4)
+
 ## Screenshots
 
 ### Title screen
